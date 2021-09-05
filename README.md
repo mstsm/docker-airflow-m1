@@ -33,3 +33,7 @@ http://localhost:8080
 ```bash
 docker-compose down --volumes --rmi all
 ```
+
+# 参考
+
+https://github.com/puckel/docker-airflow/issues/631
